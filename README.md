@@ -1,7 +1,7 @@
 # Git版本控制工具学习笔记
 
 ## 一、学习资料来源
-1. [Git官方文档](https://git-scm.com/book/zh/v2)（推荐Pro Git中文版）
+1. [Git官方文档](https://git-scm.com/book/zh/v2)
 2. [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 3. [GitHub官方指南](https://docs.github.com/zh)
 
